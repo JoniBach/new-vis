@@ -1,0 +1,82 @@
+[
+	{
+		"Athlete": "Athlete 1",
+		"100m": 11.6,
+		"LongJump": 7.33,
+		"HighJump": 1.92,
+		"400m": 48.45,
+		"Javelin": 89.8
+	},
+	{
+		"Athlete": "Athlete 2",
+		"100m": 9.54,
+		"LongJump": 7.14,
+		"HighJump": 1.82,
+		"400m": 54.12,
+		"Javelin": 84.5
+	},
+	{
+		"Athlete": "Athlete 3",
+		"100m": 11.83,
+		"LongJump": 7.66,
+		"HighJump": 1.87,
+		"400m": 46.97,
+		"Javelin": 81.41
+	},
+	{
+		"Athlete": "Athlete 4",
+		"100m": 10.45,
+		"LongJump": 6.62,
+		"HighJump": 1.6,
+		"400m": 47.11,
+		"Javelin": 61.57
+	},
+	{
+		"Athlete": "Athlete 5",
+		"100m": 9.69,
+		"LongJump": 6.06,
+		"HighJump": 1.7,
+		"400m": 47.53,
+		"Javelin": 74.04
+	},
+	{
+		"Athlete": "Athlete 6",
+		"100m": 10.95,
+		"LongJump": 6.31,
+		"HighJump": 2.28,
+		"400m": 52.56,
+		"Javelin": 82.95
+	},
+	{
+		"Athlete": "Athlete 7",
+		"100m": 11.14,
+		"LongJump": 8.35,
+		"HighJump": 1.6,
+		"400m": 49.88,
+		"Javelin": 68.95
+	},
+	{
+		"Athlete": "Athlete 8",
+		"100m": 11.68,
+		"LongJump": 6.81,
+		"HighJump": 1.65,
+		"400m": 47.7,
+		"Javelin": 82.88
+	},
+	{
+		"Athlete": "Athlete 9",
+		"100m": 10.29,
+		"LongJump": 6.21,
+		"HighJump": 1.64,
+		"400m": 53.18,
+		"Javelin": 86.72
+	},
+	{
+		"Athlete": "Athlete 10",
+		"100m": 11.93,
+		"LongJump": 6.29,
+		"HighJump": 1.63,
+		"400m": 53.58,
+		"Javelin": 70.56
+	}
+]

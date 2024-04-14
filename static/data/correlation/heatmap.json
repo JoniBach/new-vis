@@ -1,0 +1,252 @@
+[
+	{
+		"group": "A",
+		"variable": "Efficiency",
+		"value": 28.3
+	},
+	{
+		"group": "A",
+		"variable": "Teamwork",
+		"value": 30.3
+	},
+	{
+		"group": "A",
+		"variable": "Innovation",
+		"value": 48.4
+	},
+	{
+		"group": "A",
+		"variable": "Reliability",
+		"value": 17.7
+	},
+	{
+		"group": "A",
+		"variable": "Leadership",
+		"value": 54.7
+	},
+	{
+		"group": "A",
+		"variable": "Problem Solving",
+		"value": 76.0
+	},
+	{
+		"group": "A",
+		"variable": "Communication",
+		"value": 72.8
+	},
+	{
+		"group": "A",
+		"variable": "Adaptability",
+		"value": 83.1
+	},
+	{
+		"group": "A",
+		"variable": "Initiative",
+		"value": 91.9
+	},
+	{
+		"group": "A",
+		"variable": "Work Ethic",
+		"value": 69.5
+	},
+	{
+		"group": "B",
+		"variable": "Efficiency",
+		"value": 25.2
+	},
+	{
+		"group": "B",
+		"variable": "Teamwork",
+		"value": 91.6
+	},
+	{
+		"group": "B",
+		"variable": "Innovation",
+		"value": 41.6
+	},
+	{
+		"group": "B",
+		"variable": "Reliability",
+		"value": 16.8
+	},
+	{
+		"group": "B",
+		"variable": "Leadership",
+		"value": 14.5
+	},
+	{
+		"group": "B",
+		"variable": "Problem Solving",
+		"value": 12.4
+	},
+	{
+		"group": "B",
+		"variable": "Communication",
+		"value": 76.3
+	},
+	{
+		"group": "B",
+		"variable": "Adaptability",
+		"value": 15.6
+	},
+	{
+		"group": "B",
+		"variable": "Initiative",
+		"value": 89.3
+	},
+	{
+		"group": "B",
+		"variable": "Work Ethic",
+		"value": 68.0
+	},
+	{
+		"group": "C",
+		"variable": "Efficiency",
+		"value": 50.9
+	},
+	{
+		"group": "C",
+		"variable": "Teamwork",
+		"value": 53.7
+	},
+	{
+		"group": "C",
+		"variable": "Innovation",
+		"value": 44.1
+	},
+	{
+		"group": "C",
+		"variable": "Reliability",
+		"value": 52.1
+	},
+	{
+		"group": "C",
+		"variable": "Leadership",
+		"value": 70.3
+	},
+	{
+		"group": "C",
+		"variable": "Problem Solving",
+		"value": 5.4
+	},
+	{
+		"group": "C",
+		"variable": "Communication",
+		"value": 37.6
+	},
+	{
+		"group": "C",
+		"variable": "Adaptability",
+		"value": 51.5
+	},
+	{
+		"group": "C",
+		"variable": "Initiative",
+		"value": 21.3
+	},
+	{
+		"group": "C",
+		"variable": "Work Ethic",
+		"value": 93.9
+	},
+	{
+		"group": "D",
+		"variable": "Efficiency",
+		"value": 17.7
+	},
+	{
+		"group": "D",
+		"variable": "Teamwork",
+		"value": 46.6
+	},
+	{
+		"group": "D",
+		"variable": "Innovation",
+		"value": 80.6
+	},
+	{
+		"group": "D",
+		"variable": "Reliability",
+		"value": 27.2
+	},
+	{
+		"group": "D",
+		"variable": "Leadership",
+		"value": 67.1
+	},
+	{
+		"group": "D",
+		"variable": "Problem Solving",
+		"value": 26.3
+	},
+	{
+		"group": "D",
+		"variable": "Communication",
+		"value": 85.3
+	},
+	{
+		"group": "D",
+		"variable": "Adaptability",
+		"value": 40.6
+	},
+	{
+		"group": "D",
+		"variable": "Initiative",
+		"value": 77.8
+	},
+	{
+		"group": "D",
+		"variable": "Work Ethic",
+		"value": 7.7
+	},
+	{
+		"group": "E",
+		"variable": "Efficiency",
+		"value": 24.0
+	},
+	{
+		"group": "E",
+		"variable": "Teamwork",
+		"value": 74.3
+	},
+	{
+		"group": "E",
+		"variable": "Innovation",
+		"value": 63.1
+	},
+	{
+		"group": "E",
+		"variable": "Reliability",
+		"value": 44.1
+	},
+	{
+		"group": "E",
+		"variable": "Leadership",
+		"value": 50.7
+	},
+	{
+		"group": "E",
+		"variable": "Problem Solving",
+		"value": 48.2
+	},
+	{
+		"group": "E",
+		"variable": "Communication",
+		"value": 54.5
+	},
+	{
+		"group": "E",
+		"variable": "Adaptability",
+		"value": 46.2
+	},
+	{
+		"group": "E",
+		"variable": "Initiative",
+		"value": 48.5
+	},
+	{
+		"group": "E",
+		"variable": "Work Ethic",
+		"value": 16.9
+	}
+]

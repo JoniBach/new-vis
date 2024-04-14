@@ -1,0 +1,72 @@
+[
+	{
+		"Model": "Car 1",
+		"Speed": "180",
+		"Fuel_Efficiency": "30",
+		"Comfort": "80",
+		"Price": "20000"
+	},
+	{
+		"Model": "Car 2",
+		"Speed": "190",
+		"Fuel_Efficiency": "28",
+		"Comfort": "85",
+		"Price": "25000"
+	},
+	{
+		"Model": "Truck 1",
+		"Speed": "150",
+		"Fuel_Efficiency": "20",
+		"Comfort": "70",
+		"Price": "30000"
+	},
+	{
+		"Model": "Truck 2",
+		"Speed": "160",
+		"Fuel_Efficiency": "22",
+		"Comfort": "75",
+		"Price": "35000"
+	},
+	{
+		"Model": "Motorcycle 1",
+		"Speed": "200",
+		"Fuel_Efficiency": "35",
+		"Comfort": "60",
+		"Price": "15000"
+	},
+	{
+		"Model": "Motorcycle 2",
+		"Speed": "210",
+		"Fuel_Efficiency": "37",
+		"Comfort": "65",
+		"Price": "18000"
+	},
+	{
+		"Model": "Car 3",
+		"Speed": "200",
+		"Fuel_Efficiency": "25",
+		"Comfort": "90",
+		"Price": "28000"
+	},
+	{
+		"Model": "Truck 3",
+		"Speed": "140",
+		"Fuel_Efficiency": "18",
+		"Comfort": "80",
+		"Price": "40000"
+	},
+	{
+		"Model": "Motorcycle 3",
+		"Speed": "220",
+		"Fuel_Efficiency": "40",
+		"Comfort": "55",
+		"Price": "20000"
+	},
+	{
+		"Model": "Car 4",
+		"Speed": "170",
+		"Fuel_Efficiency": "32",
+		"Comfort": "78",
+		"Price": "22000"
+	}
+]

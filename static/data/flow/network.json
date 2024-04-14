@@ -1,0 +1,110 @@
+{
+	"nodes": [
+		{
+			"id": 1,
+			"name": "Researcher A"
+		},
+		{
+			"id": 2,
+			"name": "Researcher B"
+		},
+		{
+			"id": 3,
+			"name": "Researcher C"
+		},
+		{
+			"id": 4,
+			"name": "Researcher D"
+		},
+		{
+			"id": 5,
+			"name": "Researcher E"
+		},
+		{
+			"id": 6,
+			"name": "Researcher F"
+		},
+		{
+			"id": 7,
+			"name": "Researcher G"
+		},
+		{
+			"id": 8,
+			"name": "Researcher H"
+		},
+		{
+			"id": 9,
+			"name": "Researcher I"
+		},
+		{
+			"id": 10,
+			"name": "Researcher J"
+		}
+	],
+	"links": [
+		{
+			"source": 1,
+			"target": 2
+		},
+		{
+			"source": 1,
+			"target": 3
+		},
+		{
+			"source": 2,
+			"target": 4
+		},
+		{
+			"source": 3,
+			"target": 5
+		},
+		{
+			"source": 4,
+			"target": 6
+		},
+		{
+			"source": 5,
+			"target": 7
+		},
+		{
+			"source": 6,
+			"target": 8
+		},
+		{
+			"source": 7,
+			"target": 9
+		},
+		{
+			"source": 8,
+			"target": 10
+		},
+		{
+			"source": 9,
+			"target": 1
+		},
+		{
+			"source": 10,
+			"target": 2
+		},
+		{
+			"source": 1,
+			"target": 6
+		},
+		{
+			"source": 2,
+			"target": 7
+		},
+		{
+			"source": 3,
+			"target": 8
+		},
+		{
+			"source": 4,
+			"target": 9
+		},
+		{
+			"source": 5,
+			"target": 10
+		}
+	]
+}

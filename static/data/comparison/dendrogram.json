@@ -1,0 +1,49 @@
+{
+	"children": [
+		{
+			"name": "Faculty of Sciences",
+			"children": [
+				{
+					"name": "Department of Biology",
+					"colname": "level3"
+				},
+				{
+					"name": "Department of Physics",
+					"colname": "level3"
+				},
+				{
+					"name": "Department of Chemistry",
+					"colname": "level3"
+				},
+				{
+					"name": "Department of Mathematics",
+					"colname": "level3"
+				}
+			],
+			"colname": "level2"
+		},
+		{
+			"name": "Faculty of Humanities",
+			"children": [
+				{
+					"name": "Department of History",
+					"colname": "level3"
+				},
+				{
+					"name": "Department of Philosophy",
+					"colname": "level3"
+				},
+				{
+					"name": "Department of Literature",
+					"colname": "level3"
+				},
+				{
+					"name": "Department of Art",
+					"colname": "level3"
+				}
+			],
+			"colname": "level2"
+		}
+	],
+	"name": "University"
+}

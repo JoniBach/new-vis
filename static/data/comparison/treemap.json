@@ -1,0 +1,73 @@
+{
+	"name": "University",
+	"children": [
+		{
+			"name": "Engineering",
+			"children": [
+				{
+					"name": "Computer Science",
+					"value": 25
+				},
+				{
+					"name": "Electrical Engineering",
+					"value": 20
+				},
+				{
+					"name": "Mechanical Engineering",
+					"value": 18
+				}
+			]
+		},
+		{
+			"name": "Humanities",
+			"children": [
+				{
+					"name": "History",
+					"value": 15
+				},
+				{
+					"name": "Philosophy",
+					"value": 12
+				},
+				{
+					"name": "Literature",
+					"value": 13
+				}
+			]
+		},
+		{
+			"name": "Sciences",
+			"children": [
+				{
+					"name": "Biology",
+					"value": 22
+				},
+				{
+					"name": "Chemistry",
+					"value": 18
+				},
+				{
+					"name": "Physics",
+					"value": 20
+				}
+			]
+		},
+		{
+			"name": "Business",
+			"children": [
+				{
+					"name": "Finance",
+					"value": 16
+				},
+				{
+					"name": "Marketing",
+					"value": 14
+				},
+				{
+					"name": "International Business",
+					"value": 15
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,146 @@
+[
+	{
+		"Name": "Apollo",
+		"Diameter": 4.433799487300515,
+		"Distance_from_Earth": 142.4142256425888,
+		"Velocity": 15.87377620842994
+	},
+	{
+		"Name": "Amor",
+		"Diameter": 1.8252404225621577,
+		"Distance_from_Earth": 120.03792857676646,
+		"Velocity": 12.276405548461884
+	},
+	{
+		"Name": "Aten",
+		"Diameter": 7.784682354095438,
+		"Distance_from_Earth": 306.2115379193471,
+		"Velocity": 12.798189657704324
+	},
+	{
+		"Name": "Hermes",
+		"Diameter": 3.0814037872299744,
+		"Distance_from_Earth": 80.96983802216077,
+		"Velocity": 20.84432085068403
+	},
+	{
+		"Name": "Eros",
+		"Diameter": 7.05103245310978,
+		"Distance_from_Earth": 222.57092850669494,
+		"Velocity": 13.467043106057904
+	},
+	{
+		"Name": "Icarus",
+		"Diameter": 0.18867908894995344,
+		"Distance_from_Earth": 135.31504082090274,
+		"Velocity": 17.12572686132063
+	},
+	{
+		"Name": "Geographos",
+		"Diameter": 8.904439513208525,
+		"Distance_from_Earth": 217.6141502431345,
+		"Velocity": 12.972168581569541
+	},
+	{
+		"Name": "Toutatis",
+		"Diameter": 9.477864189183187,
+		"Distance_from_Earth": 352.7039617923788,
+		"Velocity": 11.312439734274072
+	},
+	{
+		"Name": "Ganymed",
+		"Diameter": 4.9945958599141065,
+		"Distance_from_Earth": 283.8822904384057,
+		"Velocity": 26.007209486725852
+	},
+	{
+		"Name": "Adonis",
+		"Diameter": 6.677930863865435,
+		"Distance_from_Earth": 148.0740840033394,
+		"Velocity": 28.93178364217953
+	},
+	{
+		"Name": "Ceres",
+		"Diameter": 7.510684823911014,
+		"Distance_from_Earth": 95.98771810157517,
+		"Velocity": 12.83850375472826
+	},
+	{
+		"Name": "Pallas",
+		"Diameter": 3.1183952380024986,
+		"Distance_from_Earth": 92.14625288162253,
+		"Velocity": 11.00309779627878
+	},
+	{
+		"Name": "Vesta",
+		"Diameter": 1.6650048817972525,
+		"Distance_from_Earth": 50.76013635070096,
+		"Velocity": 9.316208184353822
+	},
+	{
+		"Name": "Hygiea",
+		"Diameter": 9.609212204951259,
+		"Distance_from_Earth": 379.6033891164499,
+		"Velocity": 28.75124241980715
+	},
+	{
+		"Name": "Davida",
+		"Diameter": 6.61719005086624,
+		"Distance_from_Earth": 383.5238732418349,
+		"Velocity": 24.53427415109737
+	},
+	{
+		"Name": "Interamnia",
+		"Diameter": 9.477864189183187,
+		"Distance_from_Earth": 352.7039617923788,
+		"Velocity": 11.312439734274072
+	},
+	{
+		"Name": "Eunomia",
+		"Diameter": 4.9945958599141065,
+		"Distance_from_Earth": 283.8822904384057,
+		"Velocity": 26.007209486725852
+	},
+	{
+		"Name": "Psyche",
+		"Diameter": 6.677930863865435,
+		"Distance_from_Earth": 148.0740840033394,
+		"Velocity": 28.93178364217953
+	},
+	{
+		"Name": "Juno",
+		"Diameter": 7.510684823911014,
+		"Distance_from_Earth": 95.98771810157517,
+		"Velocity": 12.83850375472826
+	},
+	{
+		"Name": "Herculina",
+		"Diameter": 3.1183952380024986,
+		"Distance_from_Earth": 92.14625288162253,
+		"Velocity": 11.00309779627878
+	},
+	{
+		"Name": "Iris",
+		"Diameter": 1.6650048817972525,
+		"Distance_from_Earth": 50.76013635070096,
+		"Velocity": 9.316208184353822
+	},
+	{
+		"Name": "Flora",
+		"Diameter": 9.609212204951259,
+		"Distance_from_Earth": 379.6033891164499,
+		"Velocity": 28.75124241980715
+	},
+	{
+		"Name": "Metis",
+		"Diameter": 6.61719005086624,
+		"Distance_from_Earth": 383.5238732418349,
+		"Velocity": 24.53427415109737
+	},
+	{
+		"Name": "Massalia",
+		"Diameter": 9.477864189183187,
+		"Distance_from_Earth": 352.7039617923788,
+		"Velocity": 11.312439734274072
+	}
+]

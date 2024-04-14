@@ -1,0 +1,26 @@
+[
+	{
+		"group": "Electronics",
+		"Online": "120",
+		"In-Store": "85",
+		"Promotional": "45"
+	},
+	{
+		"group": "Apparel",
+		"Online": "75",
+		"In-Store": "115",
+		"Promotional": "65"
+	},
+	{
+		"group": "Home Appliances",
+		"Online": "60",
+		"In-Store": "90",
+		"Promotional": "35"
+	},
+	{
+		"group": "Books",
+		"Online": "45",
+		"In-Store": "95",
+		"Promotional": "25"
+	}
+]

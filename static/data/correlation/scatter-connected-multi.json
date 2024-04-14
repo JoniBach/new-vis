@@ -1,0 +1,62 @@
+[
+	{
+		"time": "1",
+		"Sales": "2",
+		"Expenses": "5",
+		"Profit": "13"
+	},
+	{
+		"time": "2",
+		"Sales": "3",
+		"Expenses": "4",
+		"Profit": "14"
+	},
+	{
+		"time": "3",
+		"Sales": "1",
+		"Expenses": "4",
+		"Profit": "16"
+	},
+	{
+		"time": "4",
+		"Sales": "7",
+		"Expenses": "4",
+		"Profit": "12"
+	},
+	{
+		"time": "5",
+		"Sales": "8",
+		"Expenses": "8",
+		"Profit": "7"
+	},
+	{
+		"time": "6",
+		"Sales": "8",
+		"Expenses": "13",
+		"Profit": "9"
+	},
+	{
+		"time": "7",
+		"Sales": "5",
+		"Expenses": "15",
+		"Profit": "3"
+	},
+	{
+		"time": "8",
+		"Sales": "4",
+		"Expenses": "17",
+		"Profit": "2"
+	},
+	{
+		"time": "9",
+		"Sales": "9",
+		"Expenses": "18",
+		"Profit": "1"
+	},
+	{
+		"time": "10",
+		"Sales": "11",
+		"Expenses": "13",
+		"Profit": "1"
+	}
+]

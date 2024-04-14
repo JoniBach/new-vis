@@ -1,0 +1,90 @@
+{
+	"nodes": [
+		{
+			"id": 1,
+			"name": "Project Manager"
+		},
+		{
+			"id": 2,
+			"name": "Developer A"
+		},
+		{
+			"id": 3,
+			"name": "Developer B"
+		},
+		{
+			"id": 4,
+			"name": "Designer"
+		},
+		{
+			"id": 5,
+			"name": "QA Specialist"
+		},
+		{
+			"id": 6,
+			"name": "Marketing Coordinator"
+		},
+		{
+			"id": 7,
+			"name": "Sales Representative"
+		},
+		{
+			"id": 8,
+			"name": "HR Manager"
+		},
+		{
+			"id": 9,
+			"name": "Finance Officer"
+		},
+		{
+			"id": 10,
+			"name": "Legal Advisor"
+		}
+	],
+	"links": [
+		{
+			"source": 1,
+			"target": 2
+		},
+		{
+			"source": 1,
+			"target": 3
+		},
+		{
+			"source": 1,
+			"target": 4
+		},
+		{
+			"source": 2,
+			"target": 5
+		},
+		{
+			"source": 3,
+			"target": 5
+		},
+		{
+			"source": 4,
+			"target": 5
+		},
+		{
+			"source": 1,
+			"target": 6
+		},
+		{
+			"source": 6,
+			"target": 7
+		},
+		{
+			"source": 1,
+			"target": 8
+		},
+		{
+			"source": 8,
+			"target": 9
+		},
+		{
+			"source": 1,
+			"target": 10
+		}
+	]
+}

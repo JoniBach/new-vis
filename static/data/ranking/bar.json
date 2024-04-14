@@ -1,0 +1,82 @@
+[
+	{
+		"name": "Bulbasaur",
+		"level": 16
+	},
+	{
+		"name": "Charmander",
+		"level": 18
+	},
+	{
+		"name": "Squirtle",
+		"level": 16
+	},
+	{
+		"name": "Caterpie",
+		"level": 7
+	},
+	{
+		"name": "Weedle",
+		"level": 7
+	},
+	{
+		"name": "Pidgey",
+		"level": 18
+	},
+	{
+		"name": "Rattata",
+		"level": 20
+	},
+	{
+		"name": "Spearow",
+		"level": 20
+	},
+	{
+		"name": "Ekans",
+		"level": 22
+	},
+	{
+		"name": "Pikachu",
+		"level": 20
+	},
+	{
+		"name": "Sandshrew",
+		"level": 22
+	},
+	{
+		"name": "Nidoran\u2640",
+		"level": 16
+	},
+	{
+		"name": "Nidoran\u2642",
+		"level": 16
+	},
+	{
+		"name": "Clefairy",
+		"level": 14
+	},
+	{
+		"name": "Vulpix",
+		"level": 18
+	},
+	{
+		"name": "Jigglypuff",
+		"level": 24
+	},
+	{
+		"name": "Zubat",
+		"level": 22
+	},
+	{
+		"name": "Oddish",
+		"level": 21
+	},
+	{
+		"name": "Paras",
+		"level": 24
+	},
+	{
+		"name": "Venonat",
+		"level": 31
+	}
+]

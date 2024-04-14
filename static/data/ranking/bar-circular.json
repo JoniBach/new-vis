@@ -1,0 +1,82 @@
+[
+	{
+		"Country": "USA",
+		"Energy_Consumption": "4000"
+	},
+	{
+		"Country": "China",
+		"Energy_Consumption": "6200"
+	},
+	{
+		"Country": "India",
+		"Energy_Consumption": "2900"
+	},
+	{
+		"Country": "Russia",
+		"Energy_Consumption": "1100"
+	},
+	{
+		"Country": "Japan",
+		"Energy_Consumption": "850"
+	},
+	{
+		"Country": "Germany",
+		"Energy_Consumption": "600"
+	},
+	{
+		"Country": "Canada",
+		"Energy_Consumption": "550"
+	},
+	{
+		"Country": "Brazil",
+		"Energy_Consumption": "500"
+	},
+	{
+		"Country": "South Korea",
+		"Energy_Consumption": "480"
+	},
+	{
+		"Country": "France",
+		"Energy_Consumption": "450"
+	},
+	{
+		"Country": "UK",
+		"Energy_Consumption": "300"
+	},
+	{
+		"Country": "Italy",
+		"Energy_Consumption": "290"
+	},
+	{
+		"Country": "Australia",
+		"Energy_Consumption": "260"
+	},
+	{
+		"Country": "Saudi Arabia",
+		"Energy_Consumption": "250"
+	},
+	{
+		"Country": "Spain",
+		"Energy_Consumption": "240"
+	},
+	{
+		"Country": "Mexico",
+		"Energy_Consumption": "230"
+	},
+	{
+		"Country": "South Africa",
+		"Energy_Consumption": "220"
+	},
+	{
+		"Country": "Turkey",
+		"Energy_Consumption": "210"
+	},
+	{
+		"Country": "Indonesia",
+		"Energy_Consumption": "200"
+	},
+	{
+		"Country": "Brazil",
+		"Energy_Consumption": "190"
+	}
+]
